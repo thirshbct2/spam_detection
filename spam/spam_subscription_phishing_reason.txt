@@ -1,0 +1,17 @@
+Email Classification Report
+==================================================
+
+Email File: spam_subscription_phishing.eml
+Analysis Date: 2026-02-05 19:08:50
+Classification: SPAM/PHISHING
+
+Reason:
+The email uses generic greetings and urgent language to create a sense of urgency, and it requests the recipient to click on a suspicious link, which is a common tactic used in phishing attempts. Additionally, the sender's email domain is unusual, raising further concerns about its legitimacy.
+
+==================================================
+
+SECURITY WARNINGS:
+- DO NOT RESPOND to this email
+- DO NOT CLICK any links
+- DO NOT SHARE personal information
+- DELETE this email immediately

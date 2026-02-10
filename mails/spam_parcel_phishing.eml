@@ -1,0 +1,16 @@
+From: Shipping Desk <notifications@parcel-tracking.co>
+To: customer@company.com
+Subject: Delivery Attempt Failed – Address Confirmation Required
+Date: Mon, 3 Feb 2026 11:15:00 +0530
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+We attempted to deliver your parcel today, but were unable to complete delivery due to an incomplete address.
+
+Please confirm your delivery details to reschedule: https://parcel-tracking[.]co/confirm
+
+Thank you for your cooperation.
+
+Regards,
+Shipping Department
