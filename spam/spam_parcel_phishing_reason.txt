@@ -2,11 +2,11 @@ Email Classification Report
 ==================================================
 
 Email File: spam_parcel_phishing.eml
-Analysis Date: 2026-02-09 16:42:47
+Analysis Date: 2026-02-10 14:17:14
 Classification: SPAM/PHISHING
 
 Reason:
-The email uses a generic greeting, has a suspicious sender domain (.co instead of .com), and contains a request to confirm delivery details via a link, which is a common tactic in phishing attempts. Additionally, the urgency implied by the failed delivery notice raises red flags.
+The email uses a generic greeting, has a suspicious sender domain (.co), and contains a link that could lead to a phishing site, all of which are common indicators of phishing attempts. Additionally, it creates a sense of urgency regarding a delivery issue that may not exist.
 
 ==================================================
 

@@ -2,11 +2,11 @@ Email Classification Report
 ==================================================
 
 Email File: spam_banking_phishing.eml
-Analysis Date: 2026-02-05 19:16:30
+Analysis Date: 2026-03-04 15:39:50
 Classification: SPAM/PHISHING
 
 Reason:
-The email uses urgent language to pressure the recipient into providing personal information, employs a generic greeting, and contains a suspicious link that could lead to a phishing site. Additionally, the sender's domain appears to be fabricated, raising further red flags about its legitimacy.
+The email uses urgent language to pressure the recipient into providing personal information, includes a generic greeting, and the sender's domain appears suspicious, suggesting it may be fraudulent. Additionally, legitimate companies typically do not request sensitive information via email or use threatening language regarding account access.
 
 ==================================================
 
